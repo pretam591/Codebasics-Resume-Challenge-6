@@ -1,5 +1,3 @@
-# Codebasics-Resume-Challenge-6
-
 
 # Provide Insights to the Marketing Team in Food & Beverage Industry
 This project is a part of Codebasics Resume Challenge #6
@@ -11,6 +9,7 @@ This project is a part of Codebasics Resume Challenge #6
 
 
 
+## Dashboard for CodeX
 ## Objectives of the Project
 1. To prepare the dataset for analysis by cleaning it and then processing it.
 2. To acquire insightful information from many categories in order to fully comprehend how the market thinks.
@@ -28,22 +27,54 @@ This project is a part of Codebasics Resume Challenge #6
 3. If Tried_before == 'No', then
   Taste_experience = 'Null'
 
-## Tools Used to Generate Insights
-1. Python
-2. MySQL
-3. Tableau
+## Data Model
+
+
+## Primary & Secondary Insights
+
+1. Targeted age group:- 15-45
+2. Major consumers:- Sports Person and Fitness Activists. 
+3. Preferred Ingredient:- Caffeine
+4. Packaging:- Compact and Innovative Cans.  
+5. Marketing channel: Online ads and TV commercials.
+6. Brand	Ambassador:- Sports Person or Musician with a wide social-media influence.	
+7. The product should have fresh flavors with healthy ingredients.
+
+## Key Findings
+
+
+### 1. Improvements in CodeX
+
+	- Add fresh flavours
+	- Simple and lovely packaging 
+	- Less use of Sugar 
+
+### 2. Ideal Price
+	- Rs 50-99 to acquire market share
+	- Should reflect the mindset of consumers 
+	- Better-tasting premium beverages (above 150)
+	- Pay attention to gross sales rather than net profit. 
+
+### 3. Marketing Campaigns
+	- Short-term savings  
+	- Deals in bundles
+	- Seasonal offers & Limited Edition Products  
+	- Working together with social media content creators
+
+### 4. Target Audience
+	- Youths visiting cafes
+	- Sporting individuals 
+	- Fitness instructors 
+	- Nutritionists
+
+
 ## Acknowledgements
 
- - [Dhaval](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Dhaval Patel Sir](https://www.linkedin.com/in/dhavalsays/)
+ - [Hemanand Vadivel Sir](https://www.linkedin.com/in/hemvad/)
+## LICENSE
 
-![Uploading IMG_20211008_105634.jpg…]()
+The license to this project:-
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Data Model
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/pretam591/Codebasics-Resume-Challenge-6/blob/main/LICENSE)
 
