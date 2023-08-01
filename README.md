@@ -105,5 +105,5 @@ This project was made as a part of:
 
 The license to this project:-
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/pretam591/Codebasics-Resume-Challenge-6/blob/main/LICENSE)
+[![Apache License 2.0](https://img.shields.io/badge/License-Apache_License_2.0-blue.svg)](https://github.com/pretam591/Codebasics-Resume-Challenge-6/blob/main/LICENSE)
 
